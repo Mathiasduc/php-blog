@@ -1,0 +1,12 @@
+{
+    "name": "simplon/php-blog",
+    "authors": [
+        {
+            "name": "Mathias Ducancel",
+            "email": "mathiasduc@gmail.com"
+        }
+    ],
+    "require": {
+        "j4mie/idiorm": "^1.5"
+    }
+}
